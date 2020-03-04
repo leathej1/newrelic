@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "http://10.80.250.213:3000/d/000000053/pagesummary-influxdb?orgId=1&refresh=1m",
+      "url": "http://10.80.250.213:3000/d/000000053/pagesummary-influxdb?orgId=1&refresh=1m&kiosk=tv",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
@@ -25,7 +25,7 @@
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://monitoring.prod.nextiva.io/d/WojOgXTmk/alert-manager?orgId=1&kiosk=tv",
+      "url": "https://monitoring.prod.nextiva.io/d/l9xrpPlWk/alert-manager?orgId=1&refresh=1m&kiosk=tv",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     }
