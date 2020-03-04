@@ -18,6 +18,11 @@
       "url": "https://one.newrelic.com/launcher/dashboards.launcher?launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjo0MzIwMDAwMH19&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTVRFeU5EZ3dOM3hXU1ZwOFJFRlRTRUpQUVZKRWZERXhNVGczTmpBIiwiaXNUZW1wbGF0ZUVtcHR5IjpmYWxzZSwiZWRpdE1vZGUiOmZhbHNlLCJpc1NhdmluZ0VkaXRDaGFuZ2VzIjpmYWxzZSwiZGFya01vZGUiOnRydWV9&platform[tvMode]=true",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
+    },
+    {
+      "url": "https://monitoring.prod.nextiva.io/d/WojOgXTmk/alert-manager?orgId=1&kiosk=tv",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
     }
   ]
 }
