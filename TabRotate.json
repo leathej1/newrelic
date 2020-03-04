@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "ttp://10.80.250.213:3000/d/000000053/pagesummary-influxdb?orgId=1&refresh=1m",
+      "url": "http://10.80.250.213:3000/d/000000053/pagesummary-influxdb?orgId=1&refresh=1m",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
