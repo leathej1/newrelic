@@ -5,6 +5,10 @@
   "lazyLoadTabs": true,
   "websites": [
     {
+      "url": "https://one.newrelic.com/launcher/dashboards.launcher?launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTVRFeU5EZ3dOM3hXU1ZwOFJFRlRTRUpQUVZKRWZERXdNelExTURBIiwiaXNUZW1wbGF0ZUVtcHR5IjpmYWxzZSwiZWRpdE1vZGUiOmZhbHNlLCJpc1NhdmluZ0VkaXRDaGFuZ2VzIjpmYWxzZSwiZGFya01vZGUiOnRydWV9&platform[tvMode]=true",
+      "tabReloadIntervalSeconds": 30
+    },
+    {
       "url": "https://one.newrelic.com/launcher/dashboards.launcher?launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjozNjAwMDAwfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTVRFeU5EZ3dOM3hXU1ZwOFJFRlRTRUpQUVZKRWZERXhNVE0zT1RBIiwiaXNUZW1wbGF0ZUVtcHR5IjpmYWxzZSwiZWRpdE1vZGUiOmZhbHNlLCJpc1NhdmluZ0VkaXRDaGFuZ2VzIjpmYWxzZSwiZGFya01vZGUiOnRydWV9&platform[tvMode]=true",
       "duration": 30,
       "tabReloadIntervalSeconds": 30
